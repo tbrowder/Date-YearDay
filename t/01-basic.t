@@ -1,5 +1,5 @@
 use Test;
-use Date::Utils;
+use Date::YearDay;
 
 pass "replace me";
 
