@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "Provides additional methods for contructing or manipulating a Raku B<Date> object",
+  "description": "Provides creation of a Raku Date object by year and day-of-year",
   "license": "Artistic-2.0",
   "name": "Date::YearDay",
   "perl": "6.d",
