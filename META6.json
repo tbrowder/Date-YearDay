@@ -9,18 +9,18 @@
   ],
   "description": "Provides additional methods for contructing or manipulating a Raku B<Date> object",
   "license": "Artistic-2.0",
-  "name": "Date::Utils",
+  "name": "Date::YearDay",
   "perl": "6.d",
   "provides": {
-    "Date::Utils": "lib/Date/Utils.rakumod"
+    "Date::YearDay": "lib/Date/YearDay.rakumod"
   },
   "resources": [
   ],
-  "source-url": "https://github.com/tbrowder/Date-Utils.git",
+  "source-url": "https://github.com/tbrowder/Date-YearDay.git",
   "tags": [
     "Date",
     "day-of-year",
-    "Julian day",
+    "cardinal day",
     "DOY"
   ],
   "test-depends": [

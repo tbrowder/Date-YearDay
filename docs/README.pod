@@ -2,19 +2,19 @@
 
 =head1 NAME
 
-Date::Utils - Provides additional methods for contructing or manipulating a Raku B<Date> object
+Date::YearDay - Provides additional methods for contructing or manipulating a Raku B<Date> object
 
 =head1 SYNOPSIS
 
 =begin code :lang<raku>
 
-use Date::Utils;
+use Date::YearDay;
 
 =end code
 
 =head1 DESCRIPTION
 
-Date::Utils is ...
+Date::YearDay is ...
 
 =head1 AUTHOR
 
