@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "blah blah blah",
+  "description": "Provides additional methods for contructing or manipulating a Raku B<Date> object",
   "license": "Artistic-2.0",
   "name": "Date::Utils",
   "perl": "6.d",
@@ -16,8 +16,12 @@
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/Date-Utils.git",
   "tags": [
+    "Date",
+    "day-of-year",
+    "Julian day",
+    "DOY"
   ],
   "test-depends": [
   ],

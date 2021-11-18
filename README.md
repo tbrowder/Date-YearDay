@@ -1,7 +1,9 @@
+[![Actions Status](https://github.com/tbrowder/Date-Utils/workflows/test/badge.svg)](https://github.com/tbrowder/Date-Utils/actions)
+
 NAME
 ====
 
-Date::Utils - blah blah blah
+Date::Utils - Provides additional methods for contructing or manipulating a Raku **Date** object
 
 SYNOPSIS
 ========
@@ -25,5 +27,5 @@ COPYRIGHT AND LICENSE
 
 Copyright 2021 Tom Browder
 
-This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
 

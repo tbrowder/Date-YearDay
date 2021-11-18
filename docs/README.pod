@@ -1,11 +1,8 @@
-unit class Date::Utils:ver<0.0.1>:auth<cpan:TBROWDER>;
-
-
 =begin pod
 
 =head1 NAME
 
-Date::Utils - blah blah blah
+Date::Utils - Provides additional methods for contructing or manipulating a Raku B<Date> object
 
 =head1 SYNOPSIS
 
@@ -27,6 +24,6 @@ Tom Browder <tbrowder@cpan.org>
 
 Copyright 2021 Tom Browder
 
-This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
 
 =end pod
