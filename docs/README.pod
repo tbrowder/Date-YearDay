@@ -7,19 +7,20 @@ Date::YearDay - Provides creation of a Raku Date object by year and day-of-year
 =head1 SYNOPSIS
 
 =begin code :lang<raku>
-
 use Date::YearDay;
 my ($year, $day-of-year) = 2021, 42;
 my $d  = Date::YearDay.new: :$year, :$day-of-year;
+say $d ~~ Date; # OUTPUT: «True␤»
+
 # alternatively:
 my $d2 = Date::YearDay.new: :$year, :doy($day-of-year);
-
+say $d2.Str; # OUTPUT: «2021-02-11␤»
 =end code
 
 =head1 DESCRIPTION
 
 Class B<Date::YearDay> is child class of a Raku I<Date> object whose purpose is to provide I<Date> instantiation
-by entering a year and day-of-year. As a child of the I<Date> class it inherits all the I<Date> class' 
+by entering a year and day-of-year. As a child of the I<Date> class it inherits all the I<Date> class'
 methods without further action by the user.
 
 =head1 AUTHOR

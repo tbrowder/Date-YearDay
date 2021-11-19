@@ -12,8 +12,11 @@ SYNOPSIS
 use Date::YearDay;
 my ($year, $day-of-year) = 2021, 42;
 my $d  = Date::YearDay.new: :$year, :$day-of-year;
+say $d ~~ Date; # OUTPUT: «True␤»
+
 # alternatively:
 my $d2 = Date::YearDay.new: :$year, :doy($day-of-year);
+say $d2.Str; # OUTPUT: «2021-02-11␤»
 ```
 
 DESCRIPTION
