@@ -25,7 +25,7 @@ methods without further action by the user.
 
 =head1 AUTHOR
 
-Tom Browder <tbrowder@cpan.org>
+Tom Browder <tbrowder@acm.org>
 
 =head1 COPYRIGHT AND LICENSE
 

@@ -1,4 +1,4 @@
-unit class Date::YearDay:ver<0.0.1>:auth<cpan:TBROWDER> is Date is export;
+unit class Date::YearDay is Date is export;
 
 multi method new(:$year!, :$day-of-year!, |c) {
     # Convert the input values to a Date object. Following code thanks

@@ -1,6 +1,7 @@
 Revision history for Date-YearDay
 
 {{$NEXT}}
+    - Publish to Zef repository
 
 0.0.1  2021-11-18T18:03:30-06:00
     - Initial version
