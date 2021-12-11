@@ -27,7 +27,7 @@ Class **Date::YearDay** is child class of a Raku *Date* object whose purpose is 
 AUTHOR
 ======
 
-Tom Browder <tbrowder@cpan.org>
+Tom Browder <tbrowder@acm.org>
 
 COPYRIGHT AND LICENSE
 =====================
